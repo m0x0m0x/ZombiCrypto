@@ -71,7 +71,9 @@ echo "############### CARGO INSTALLS ###############"
 echo "############### CARGO INSTALLS ###############"
 echo "############### CARGO INSTALLS ###############"
 echo "############### CARGO INSTALLS ###############"
-cargo install exa fd-find ripgrep du-dust starship 
+cargo install exa fd-find ripgrep du-dust starship artem git2 image-to-ascii
+cargo install cargo-nextest --locked
+cargo install nu --features=dataframe
 echo ""
 echo ""
 echo "############### BREW INSTALLS ###############"
