@@ -10,6 +10,7 @@
 
 ----
 1. [🧮:👁️:fo1: LOL ?](#️fo1-lol-)
+2. [Dirs](#dirs)
 
 ----
 
@@ -18,4 +19,10 @@
 1. This branch is for testing foundry related stuff 
 2. because you want to use foundry for the work 
 
+# Dirs 
 
+1. Tast Asses will be different folders for segregation 
+2. These are mostly for wanking and some for work 
+
+N | 🔏
+|:--:|:--:|
