@@ -1,33 +1,21 @@
 <p align="center">
-<img src="px/p.gif" width="50">
+<img src="px/f1.gif" width="300">
 </p>
 
 
 ----
 
-<h1 align="center"><code>🧮:ZC</code></h1>
-<h2 align="center"><i>Crypto Zomboies Practice EasyPusee</i></h2>
+<h1 align="center"><code>🧮:👁️:fo1</code></h1>
+<h2 align="center"><i>Foundry Testing 1 </i></h2>
 
 ----
-1. [LOL ?](#lol-)
-2. [Main Website](#main-website)
-3. [Branches](#branches)
+1. [🧮:👁️:fo1: LOL ?](#️fo1-lol-)
 
 ----
 
-# LOL ?
+# 🧮:👁️:fo1: LOL ?
 
-1. This repo is for doing ['crypto zombies'](https://cryptozombies.io/) Course for learning web3 to makem girl cream in your face 
+1. This branch is for testing foundry related stuff 
+2. because you want to use foundry for the work 
 
-# Main Website 
 
-[`https://cryptozombies.io/`](https://cryptozombies.io/)
-- Main Website 
-- There are some youtube tutorials that also go over it 
-- Notes recorded in other 
-
- # Branches
-
- N | 
-
-👁️
