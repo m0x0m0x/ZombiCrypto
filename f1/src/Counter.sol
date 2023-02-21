@@ -12,4 +12,5 @@ contract Counter {
         number++;
     }
     
+    
 }
